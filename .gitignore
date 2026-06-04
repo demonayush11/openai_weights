@@ -1,0 +1,9 @@
+# .gitignore
+gpt2/
+*.ckpt
+*.ckpt.index
+*.ckpt.meta
+*.ckpt.data-*
+*.bin
+*.pt
+*.pth
